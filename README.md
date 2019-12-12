@@ -13,12 +13,21 @@ In order to use Emotion Mapper fully, please also download the [Emotion Mapper S
 ```
 ## Getting Started
 
-To use this component of Emotion Mapper, once downloaded, run the following command in the terminal
-**Temporary, to be changed once fully complete**
+To use the development version of this component, run the following command in the terminal
 ```
 gatsby develop
-
 ```
+
+To build a static version for servers, run the following command in the terminal
+```
+gatsby build
+```
+
+To then serve the static build, run the following command in the terminal
+```
+gatsby serve
+```
+
 To set the address of the associated Emotion Mapper Tool Server, access 
 ```
 \src\components\config\ 
