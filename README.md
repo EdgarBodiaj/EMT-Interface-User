@@ -17,4 +17,10 @@ To use this component of Emotion Mapper, once downloaded, run the following comm
 **Temporary, to be changed once fully complete**
 ```
 gatsby develop
+
 ```
+To set the address of the associated Emotion Mapper Tool Server, access 
+```
+\src\components\config\ 
+```
+and alter the addr constant
